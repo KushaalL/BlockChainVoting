@@ -6,3 +6,5 @@ How to run program:
 Go to terminal for frontend folder. Run npm install then node app.js
 
 Run another terminal for backend folder. Run npm install then node app.js
+
+Go to localhost:8080 on the browser
